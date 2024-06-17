@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gar Ru</h1>
-<h3 align="center">A passionate data analyst from Malaysia</h3>
+<h3 align="center">A passionate data scientist/data engineer from Malaysia</h3>
 
 - 📫 How to reach me **garru0903@gmail.com**
 
